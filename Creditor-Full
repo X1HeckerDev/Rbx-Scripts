@@ -1,0 +1,3 @@
+--U Can Chnage The (Made By YourNameHere) To Any Thing For Example (Amoung Us)-- --Delete this Top Msg--
+_G.Text = "Made By YourNameHere"
+loadstring(game:HttpGet("https://raw.githubusercontent.com/X1HeckerDev/Rbx-Scripts/main/Creditor-Source"))()
